@@ -10,8 +10,8 @@
 
 ## 👋 About
 
-- 🎓 Graduating June 2027, looking for a backend internship
-- 🌐 Resume site (Spring Boot + Thymeleaf, deployed on Azure): https://wayne-resume-f2cyekegdzg4g5h3.japanwest-01.azurewebsites.net
+- 🎓 Graduating June 2027
+- 🌐 Resume site: https://wayne-resume-f2cyekegdzg4g5h3.japanwest-01.azurewebsites.net
 - 🐍 Capstone: Django-based health analysis platform
 - 📫 Reach me at tsun.an.yang@gmail.com
 <!-- - 📄 [Download my resume (PDF)](PDF_LINK) -->
