@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f13,100:6ea8ff&height=200&section=header&text=Wayne%20Yang&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Information%20Management%20%40%20Ming%20Chuan%20University&descSize=16&descAlignY=58" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6EA8FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+in+Training;Java+%7C+SQL+%7C+Python+%7C+Django;Looking+for+a+backend+internship" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6EA8FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+in+Training;Always+learning%2C+always+building;Looking+for+an+internship+to+learn+and+grow" alt="typing" />
 </p>
 
 <p align="center">
