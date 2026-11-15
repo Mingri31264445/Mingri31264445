@@ -20,6 +20,13 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,django,html,css,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+</p>
+
+## 📚 Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,vue" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f13,100:6ea8ff&height=100&section=footer" width="100%" alt="footer" />
