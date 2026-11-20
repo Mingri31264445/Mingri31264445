@@ -11,8 +11,8 @@
 ## 👋 About
 
 - 🎓 Graduating June 2027
-- 🌐 Resume site: https://wayne-resume-f2cyekegdzg4g5h3.japanwest-01.azurewebsites.net
-- 🐍 Capstone: Django-based health analysis platform
+- 🌐 [Resume site](https://wayne-resume-f2cyekegdzg4g5h3.japanwest-01.azurewebsites.net) — Spring Boot + Thymeleaf, deployed on Azure
+- 🐍 [Capstone](https://github.com/Mingri31264445/health-analysis-system) — Django-based health analysis platform
 - 📫 Reach me at tsun.an.yang@gmail.com
 <!-- - 📄 [Download my resume (PDF)](PDF_LINK) -->
 
